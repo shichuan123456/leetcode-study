@@ -22,6 +22,7 @@
     }
     return []
 }; */
+
 // map
 /* var twoSum = function(nums, target) {
   const map = {}
@@ -48,6 +49,7 @@ console.log(twoSum([3,2,4], 7)); */
   })
   return _result
 }; */
+
 // includes
 // var twoSum = function(nums, target) {
 //   for(var i = 0;i<nums.length;i++){

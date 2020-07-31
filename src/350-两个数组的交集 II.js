@@ -20,6 +20,7 @@ var intersect = function(nums1, nums2) {
 
   return res;
 }; */
+
 // 利用双指针
 /* var intersect = function(nums1, nums2) {
   nums1.sort((a,b) => a - b);
@@ -39,6 +40,7 @@ var intersect = function(nums1, nums2) {
   }
   return res;
 } */
+
 // 循环遍历
 /* var intersect = function(nums1, nums2) {
   const res = [];
