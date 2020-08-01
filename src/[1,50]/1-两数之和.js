@@ -14,7 +14,6 @@
       const sum = mapNums[i].val + mapNums[j].val;
       if ( sum > target) {
         j--;
-      } else if(sum < target) {
         i++;
       } else {
         return [mapNums[i].idx, mapNums[j].idx];
